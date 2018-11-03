@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "name": "Heaven", 
+        "length": "3:45",
+        "color": "red"
+    },
+    {
+        "id":1,
+        "name": "Another brick in the wall", 
+        "length": "4:47",
+        "color": "green"
+    },
+    {
+        "id":2,
+        "name": "What a wonderful world", 
+        "length": "3:15",
+        "color": "red"
+    },
+    {
+        "id":3,
+        "name": "Song 2", 
+        "length": "2:00",
+        "color": "green"
+    }
+  ]
